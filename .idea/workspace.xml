@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="" />
+    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="Added hello message">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/VitalyaCLass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/VitalyaCLass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2BQafrm7nnctjstZOtbWGrmEemM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -24,7 +44,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656840869846</updated>
+      <workItem from="1656840871088" duration="1308000" />
     </task>
+    <task id="LOCAL-00001" summary="Added hello message">
+      <created>1656842874880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656842874880</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed VitalyaClass">
+      <created>1656843176253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656843176253</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added hello message" />
+    <MESSAGE value="Changed VitalyaClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed VitalyaClass" />
   </component>
 </project>
