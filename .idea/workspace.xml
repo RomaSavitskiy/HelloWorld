@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="Added hello message">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/VitalyaCLass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/VitalyaCLass.java" afterDir="false" />
-    </list>
+    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656840869846</updated>
-      <workItem from="1656840871088" duration="1308000" />
+      <workItem from="1656840871088" duration="4534000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -60,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656843176253</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated VitalyaClass">
+      <created>1656843513731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656843513731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +73,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added hello message" />
     <MESSAGE value="Changed VitalyaClass" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed VitalyaClass" />
+    <MESSAGE value="Updated VitalyaClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated VitalyaClass" />
   </component>
 </project>
