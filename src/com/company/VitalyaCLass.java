@@ -7,5 +7,12 @@ public class VitalyaCLass {
         System.out.println("Use Git Bash");
         System.out.println("Second try");
         System.out.println("Second try");
+
+
+
     }
+
+
 }
+
+
