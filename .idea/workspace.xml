@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_07_2022_12_55__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_07_2022_12_55__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656843176253</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test of gitignore">
+      <created>1657129664754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657129664754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +76,7 @@
     <MESSAGE value="Added hello message" />
     <MESSAGE value="Changed VitalyaClass" />
     <MESSAGE value="Tested types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tested types" />
+    <MESSAGE value="Test of gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test of gitignore" />
   </component>
 </project>
