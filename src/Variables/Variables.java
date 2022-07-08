@@ -1,4 +1,4 @@
-package com.company;
+package Variables;
 
 public class Variables {
     public static void main(String[] args) {
@@ -12,7 +12,6 @@ public class Variables {
         char v = 'd';
         boolean u = false;
         y = (byte) x;
-        System.out.println(y);
     }
 }
 

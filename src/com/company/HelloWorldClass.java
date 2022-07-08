@@ -1,5 +1,7 @@
 package com.company;
 
+import Variables.VariablesClass;
+
 public class HelloWorldClass {
 
   public int x = 10;
@@ -7,5 +9,11 @@ public class HelloWorldClass {
 
   public static void main(String[] args) {
     System.out.println("Hello world!");
+
+    VariablesClass Variable = new VariablesClass();
+
+    Variable.FindIntValue();
+    Variable.FindFloatValue();
+    Variable.FindCharValue();
   }
 }
