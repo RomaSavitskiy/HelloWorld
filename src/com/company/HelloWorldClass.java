@@ -1,6 +1,6 @@
 package com.company;
 
-import Variables.VariablesClass;
+import variables.VariablesClass;
 
 public class HelloWorldClass {
 
