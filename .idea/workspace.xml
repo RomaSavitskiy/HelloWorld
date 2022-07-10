@@ -89,7 +89,7 @@
       <workItem from="1657185702609" duration="660000" />
       <workItem from="1657186378777" duration="2046000" />
       <workItem from="1657309883572" duration="965000" />
-      <workItem from="1657445872272" duration="16172000" />
+      <workItem from="1657445872272" duration="17428000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657466953330</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added additional tasks from homework">
+      <created>1657471608788</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657471608788</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +181,7 @@
     <MESSAGE value="Homework with Variables" />
     <MESSAGE value="Deleted unnecessary сlass" />
     <MESSAGE value="Added main tasks from homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added main tasks from homework" />
+    <MESSAGE value="Added additional tasks from homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added additional tasks from homework" />
   </component>
 </project>

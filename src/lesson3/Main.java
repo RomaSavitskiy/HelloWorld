@@ -9,9 +9,22 @@ public class Main {
     Scanner scaner = new Scanner(System.in);
 
     System.out.println("Выберите программу");
+    System.out.println("1. Поиск поры года по номеру месяца через switch");
+    System.out.println("2. Поиск поры года по номеру месяца через if");
+    System.out.println("3. Проверка на чётность");
+    System.out.println("4. Определение погоды на улице");
+    System.out.println("5. Определение цвета радуги по номеру");
+    System.out.println("6. Вывод нечётных чисел от 1 до 99");
+    System.out.println("7. Вывод чисел от 5 до 1");
+    System.out.println("8. Сумма чисел от 1 до N-го");
+    System.out.println("9. Вывод последовательности 7, 14, 21, ..., 98");
+    System.out.println("10. Вывод последовательности 0, -5, -10, ..., -45 ");
+    System.out.println("11. Вывод квадратов чисел от 10 до 20 ");
+    System.out.println("12. Вывод первых 11 членов последовательности Фибоначчи");
+    System.out.println("13. Расчёт вклада с 7% ставкой за N количество месяцев");
+    System.out.println("14. Вывод таблицы умножения");
 
     int numberOperarion = scaner.nextInt();
-
     Execution execution = new Execution();
 
     switch(numberOperarion)
@@ -50,7 +63,7 @@ public class Main {
         execution.outputSquareNumbers();
         break;
       case 12:
-        execution.outputFibonachiNumbers();
+        execution.outputFibonacciNumbers();
         break;
       case 13:
         execution.findSumInBank();

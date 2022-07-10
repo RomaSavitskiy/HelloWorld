@@ -2,9 +2,10 @@ package lesson3;
 
 import java.util.Scanner;
 
-public class Execution {
+public class Execution
+{
 
-  Scanner scaner = new Scanner(System.in);
+  Scanner scanner = new Scanner(System.in);
   String winter = "Зима";
   String spring = "Весна";
   String summer = "Лето";
@@ -16,9 +17,10 @@ public class Execution {
 
     System.out.println("Введите номер месяца");
 
-    MonthNumber = scaner.nextInt();
+    MonthNumber = scanner.nextInt();
 
-    switch(MonthNumber) {
+    switch(MonthNumber)
+    {
       case 1, 2, 12:
         System.out.println(winter);
         break;
@@ -38,7 +40,7 @@ public class Execution {
   {
     System.out.println("Введите номер месяца");
 
-    MonthNumber = scaner.nextInt();
+    MonthNumber = scanner.nextInt();
 
     if((MonthNumber == 1) || (MonthNumber == 2) || (MonthNumber == 12))
       System.out.println(winter);
@@ -56,39 +58,39 @@ public class Execution {
   public void defineEvenNumber()
   {
 
-    int number, temp = 0;
+    int number, temp;
 
     System.out.println("Введите число");
 
-    number = scaner.nextInt();
+    number = scanner.nextInt();
 
     temp= number % 2;
 
     if(temp == 0)
-      System.out.println("Четное");
+      System.out.println("Ваше число четное");
     else
-      System.out.println("Нучётное");
+      System.out.println("Ваше число нечётное");
     }
 
   public void defineTemperature()
   {
     System.out.println("Введите температуру на улице");
 
-    int temperature =  scaner.nextInt();
+    int temperature =  scanner.nextInt();
 
     if(temperature > -5)
-      System.out.println("Тепло");
+      System.out.println("На улице Тепло");
     if((temperature <= -5) & (temperature > -20))
-      System.out.println("Нормально");
+      System.out.println("На улице Нормально");
     if(temperature <= -20)
-      System.out.println("Холодно");
+      System.out.println("На улице холодно");
   }
 
   public void defineColourRainbow()
   {
     System.out.println("Введите номер цвета радуги");
 
-    int colour = scaner.nextInt();
+    int colour = scanner.nextInt();
 
     switch(colour)
     {
@@ -143,7 +145,7 @@ public class Execution {
   {
     System.out.println("Введите число");
 
-    int number = scaner.nextInt();
+    int number = scanner.nextInt();
 
     int sum = 0;
 
@@ -181,7 +183,7 @@ public class Execution {
 
     public void outputSquareNumbers()
     {
-      int temp = 0;
+      int temp;
       System.out.println("Последовательность:");
 
       for(int i = 10; i <= 20; i++)
@@ -191,7 +193,7 @@ public class Execution {
       }
     }
 
-    public void outputFibonachiNumbers()
+    public void outputFibonacciNumbers()
     {
       int firstNumber = 1;
       int secondNumber = 1;
@@ -211,19 +213,19 @@ public class Execution {
 
     public void findSumInBank()
     {
-      float vklad;
+      float contribution;
       int amountOfMonth;
 
       System.out.println("Введите сумму вклада ");
-      vklad = scaner.nextInt();
+      contribution = scanner.nextInt();
 
       System.out.println("Введите количество месяцев хранения денег в банке ");
-      amountOfMonth = scaner.nextInt();
+      amountOfMonth = scanner.nextInt();
 
       for(int i = 1; i <= amountOfMonth; i++)
-        vklad = vklad * 1.07f;
+        contribution = contribution * 1.07f;
 
-      System.out.println("Сумма итогового вклада состовляет " + vklad);
+      System.out.println("Сумма итогового вклада состовляет " + contribution);
     }
 
 
