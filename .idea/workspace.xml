@@ -73,7 +73,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.com.company.HelloWorldClass" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +88,8 @@
       <workItem from="1657185702609" duration="660000" />
       <workItem from="1657186378777" duration="2046000" />
       <workItem from="1657309883572" duration="965000" />
-      <workItem from="1657445872272" duration="17428000" />
+      <workItem from="1657445872272" duration="18077000" />
+      <workItem from="1657473924789" duration="369000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657471608788</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Changed output messages for homework">
+      <created>1657473015470</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657473015470</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +189,7 @@
     <MESSAGE value="Deleted unnecessary сlass" />
     <MESSAGE value="Added main tasks from homework" />
     <MESSAGE value="Added additional tasks from homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added additional tasks from homework" />
+    <MESSAGE value="Changed output messages for homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed output messages for homework" />
   </component>
 </project>
