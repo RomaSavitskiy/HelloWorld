@@ -65,14 +65,10 @@ public class Execution {
     temp= number % 2;
 
     if(temp == 0)
-    {
       System.out.println("Четное");
-    }
     else
-    {
       System.out.println("Нучётное");
     }
-  }
 
   public void defineTemperature()
   {
@@ -195,4 +191,53 @@ public class Execution {
       }
     }
 
+    public void outputFibonachiNumbers()
+    {
+      int firstNumber = 1;
+      int secondNumber = 1;
+      int number;
+
+      System.out.println("Первые 10 чисел Фибоначчи ");
+      System.out.print(firstNumber + " " + secondNumber + " ");
+
+      for(int i = 3; i <=10; i++)
+      {
+        number = firstNumber + secondNumber;
+        System.out.print(number + " ");
+        firstNumber = secondNumber;
+        secondNumber = number;
+      }
+    }
+
+    public void findSumInBank()
+    {
+      float vklad;
+      int amountOfMonth;
+
+      System.out.println("Введите сумму вклада ");
+      vklad = scaner.nextInt();
+
+      System.out.println("Введите количество месяцев хранения денег в банке ");
+      amountOfMonth = scaner.nextInt();
+
+      for(int i = 1; i <= amountOfMonth; i++)
+        vklad = vklad * 1.07f;
+
+      System.out.println("Сумма итогового вклада состовляет " + vklad);
+    }
+
+
+    public void multiplicationTable()
+    {
+      System.out.println("Таблица умножения: ");
+      for(int i = 1; i <=9; i++)
+      {
+        System.out.println();
+        for(int j = 1; j <=9; j++)
+        {
+          System.out.print((i*j) + "   ");
+        }
+      }
+
+    }
 }

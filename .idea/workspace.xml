@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="Deleted unnecessary сlass">
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Execution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables/VariablesClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variables/VariablesClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HelloWorldClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HelloWorldClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/Execution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/Execution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +89,7 @@
       <workItem from="1657185702609" duration="660000" />
       <workItem from="1657186378777" duration="2046000" />
       <workItem from="1657309883572" duration="965000" />
-      <workItem from="1657445872272" duration="11762000" />
+      <workItem from="1657445872272" duration="16172000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -143,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657309848079</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added main tasks from homework">
+      <created>1657466953330</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657466953330</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +173,7 @@
     <MESSAGE value="Added google style for program" />
     <MESSAGE value="Homework with Variables" />
     <MESSAGE value="Deleted unnecessary сlass" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted unnecessary сlass" />
+    <MESSAGE value="Added main tasks from homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added main tasks from homework" />
   </component>
 </project>

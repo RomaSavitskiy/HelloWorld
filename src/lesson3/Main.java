@@ -49,6 +49,14 @@ public class Main {
       case 11:
         execution.outputSquareNumbers();
         break;
+      case 12:
+        execution.outputFibonachiNumbers();
+        break;
+      case 13:
+        execution.findSumInBank();
+        break;
+      case 14:
+        execution.multiplicationTable();
     }
 
   }
