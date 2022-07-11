@@ -201,7 +201,7 @@ public class Execution
       System.out.println("Первые 10 чисел Фибоначчи ");
       System.out.print(firstNumber + " " + secondNumber + " ");
 
-      for(int i = 3; i <=10; i++)
+      for(int i = 3; i <= 10; i++)
       {
         number = firstNumber + secondNumber;
         System.out.print(number + " ");
