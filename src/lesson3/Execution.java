@@ -10,15 +10,15 @@ public class Execution
   String summer = "Лето";
   String autumn = "Осень";
 
-  int MonthNumber;
+  int monthNumber;
 
   public void FindMonthViaSwitch(){
 
     System.out.println("Введите номер месяца");
 
-    MonthNumber = scanner.nextInt();
+    monthNumber = scanner.nextInt();
 
-    switch(MonthNumber)
+    switch(monthNumber)
     {
       case 1, 2, 12:
         System.out.println(winter);
@@ -39,18 +39,18 @@ public class Execution
   {
     System.out.println("Введите номер месяца");
 
-    MonthNumber = scanner.nextInt();
+    monthNumber = scanner.nextInt();
 
-    if((MonthNumber == 1) || (MonthNumber == 2) || (MonthNumber == 12))
+    if((monthNumber == 1) || (monthNumber == 2) || (monthNumber == 12))
       System.out.println(winter);
 
-    if((MonthNumber == 3) || (MonthNumber == 4) || (MonthNumber == 5))
+    if((monthNumber == 3) || (monthNumber == 4) || (monthNumber == 5))
       System.out.println(spring);
 
-    if((MonthNumber == 6) || (MonthNumber == 7) || (MonthNumber == 8))
+    if((monthNumber == 6) || (monthNumber == 7) || (monthNumber == 8))
       System.out.println(summer);
 
-    if((MonthNumber == 9) || (MonthNumber == 10) || (MonthNumber == 11))
+    if((monthNumber == 9) || (monthNumber == 10) || (monthNumber == 11))
       System.out.println(autumn);
   }
 
@@ -230,11 +230,11 @@ public class Execution
 
     public void multiplicationTable()
     {
-      System.out.println("Таблица умножения: ");
-      for(int i = 1; i <=9; i++)
+      System.out.print("Таблица умножения: ");
+      for(int i = 1; i <= 9; i++)
       {
         System.out.println();
-        for(int j = 1; j <=9; j++)
+        for(int j = 1; j <= 9; j++)
         {
           System.out.print((i*j) + "   ");
         }

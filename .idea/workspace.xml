@@ -89,7 +89,8 @@
       <workItem from="1657186378777" duration="2046000" />
       <workItem from="1657309883572" duration="965000" />
       <workItem from="1657445872272" duration="18077000" />
-      <workItem from="1657473924789" duration="369000" />
+      <workItem from="1657473924789" duration="736000" />
+      <workItem from="1657476206286" duration="1991000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -161,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657473015470</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added infinity cycle for repeat main menu">
+      <created>1657474631494</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657474631494</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +198,7 @@
     <MESSAGE value="Added main tasks from homework" />
     <MESSAGE value="Added additional tasks from homework" />
     <MESSAGE value="Changed output messages for homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed output messages for homework" />
+    <MESSAGE value="Added infinity cycle for repeat main menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added infinity cycle for repeat main menu" />
   </component>
 </project>

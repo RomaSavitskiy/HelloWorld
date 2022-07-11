@@ -6,7 +6,7 @@ public class Main {
 
   public static void main(String[] args) {
 
-    Scanner scaner = new Scanner(System.in);
+    Scanner scanner = new Scanner(System.in);
 
     while (true) {
       System.out.println("Выберите программу");
@@ -25,7 +25,7 @@ public class Main {
       System.out.println("13. Расчёт вклада с 7% ставкой за N количество месяцев");
       System.out.println("14. Вывод таблицы умножения");
 
-      int numberOperarion = scaner.nextInt();
+      int numberOperarion = scanner.nextInt();
       Execution execution = new Execution();
 
       switch (numberOperarion) {
@@ -74,7 +74,7 @@ public class Main {
 
       System.out.println();
       System.out.println("Введите любой символ, чтобы вернуться в меню");
-      scaner.next();
+      scanner.next();
     }
   }
 }
