@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson4/Executor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -42,7 +44,20 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.BubbleSort" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorldClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.HelloWorldClass" />
       <module name="HelloWorld" />
@@ -71,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -92,7 +108,8 @@
       <workItem from="1657476206286" duration="1991000" />
       <workItem from="1657521367707" duration="2613000" />
       <workItem from="1657612983794" duration="970000" />
-      <workItem from="1657642883515" duration="549000" />
+      <workItem from="1657642883515" duration="6435000" />
+      <workItem from="1657663620235" duration="1498000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -185,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657521559482</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Changed .gitignore">
+      <created>1657643453051</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657643453051</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +241,7 @@
     <MESSAGE value="Added infinity cycle for repeat main menu" />
     <MESSAGE value="Changed bad cod" />
     <MESSAGE value="Changed bad cod 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed bad cod 2" />
+    <MESSAGE value="Changed .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed .gitignore" />
   </component>
 </project>
