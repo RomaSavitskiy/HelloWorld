@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/Execution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/Execution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,9 @@
       <workItem from="1657445872272" duration="18077000" />
       <workItem from="1657473924789" duration="736000" />
       <workItem from="1657476206286" duration="1991000" />
+      <workItem from="1657521367707" duration="2613000" />
+      <workItem from="1657612983794" duration="970000" />
+      <workItem from="1657642883515" duration="549000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -169,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657474631494</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Changed bad cod">
+      <created>1657521498199</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657521498199</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Changed bad cod 2">
+      <created>1657521559482</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657521559482</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +215,8 @@
     <MESSAGE value="Added additional tasks from homework" />
     <MESSAGE value="Changed output messages for homework" />
     <MESSAGE value="Added infinity cycle for repeat main menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added infinity cycle for repeat main menu" />
+    <MESSAGE value="Changed bad cod" />
+    <MESSAGE value="Changed bad cod 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed bad cod 2" />
   </component>
 </project>
