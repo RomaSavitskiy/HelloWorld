@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson4/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Executor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson4/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson4/Executor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson4/Executor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +109,7 @@
       <workItem from="1657521367707" duration="2613000" />
       <workItem from="1657612983794" duration="970000" />
       <workItem from="1657642883515" duration="6435000" />
-      <workItem from="1657663620235" duration="1498000" />
+      <workItem from="1657663620235" duration="7344000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -209,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657643453051</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Added bubble sortclass">
+      <created>1657668986917</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657668986917</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +249,7 @@
     <MESSAGE value="Changed bad cod" />
     <MESSAGE value="Changed bad cod 2" />
     <MESSAGE value="Changed .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed .gitignore" />
+    <MESSAGE value="Added bubble sortclass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added bubble sortclass" />
   </component>
 </project>
