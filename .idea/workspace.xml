@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Executer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/Starter.java" afterDir="false" />
+    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/src/lesson5/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/HelloWorldClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HelloWorldClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +49,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "build.tools"
   }
-}</component>
-  <component name="RunManager" selected="Application.BubbleSort">
+}]]></component>
+  <component name="RunManager" selected="Application.Start">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson4.BubbleSort" />
       <module name="HelloWorld" />
@@ -89,8 +95,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.Start" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.HelloWorldClass" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Main" />
       </list>
@@ -116,6 +137,7 @@
       <workItem from="1657642883515" duration="6435000" />
       <workItem from="1657663620235" duration="7344000" />
       <workItem from="1657741652138" duration="670000" />
+      <workItem from="1657791233468" duration="10918000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -229,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657741768073</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Test">
+      <created>1657791508598</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657791508598</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +292,7 @@
     <MESSAGE value="Changed bad cod 2" />
     <MESSAGE value="Changed .gitignore" />
     <MESSAGE value="Added bubble sortclass" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bubble sortclass" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
