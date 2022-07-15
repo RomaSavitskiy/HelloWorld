@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/src/lesson5/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson5/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HelloWorldClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HelloWorldClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +131,7 @@
       <workItem from="1657642883515" duration="6435000" />
       <workItem from="1657663620235" duration="7344000" />
       <workItem from="1657741652138" duration="670000" />
-      <workItem from="1657791233468" duration="10918000" />
+      <workItem from="1657791233468" duration="11000000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -258,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657791508598</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added lesson 5 tasks">
+      <created>1657833218728</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1657833218728</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +294,7 @@
     <MESSAGE value="Changed .gitignore" />
     <MESSAGE value="Added bubble sortclass" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Added lesson 5 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added lesson 5 tasks" />
   </component>
 </project>
