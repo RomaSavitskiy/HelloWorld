@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Execution
 {
   Scanner scanner = new Scanner(System.in);
-  String winter = "Зима";
+  String winter = "Зимаdajs";
   String spring = "Весна";
   String summer = "Лето";
   String autumn = "Осень";
