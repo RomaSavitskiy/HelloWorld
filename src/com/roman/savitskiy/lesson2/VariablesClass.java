@@ -1,4 +1,4 @@
-package com.roman.savitskiy.variables;
+package com.roman.savitskiy.lesson2;
 
 public class VariablesClass
 {
