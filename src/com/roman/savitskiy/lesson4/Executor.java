@@ -1,4 +1,4 @@
-package lesson4;
+package com.roman.savitskiy.lesson4;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -46,7 +46,6 @@ public class Executor {
     {
         int[] array = {1, 2, 3, 4, 2, 6, 8};
         int[] newArray = new int[array.length];
-        int k = 0;
         int value;
 
         System.out.println("Массив:");
@@ -59,7 +58,9 @@ public class Executor {
         System.out.println();
         System.out.println("Введите удаляемый символ");
 
+
         value = scanner.nextInt();
+        int k = 0;
 
         for(int i = 0; i < array.length; i++)
         {
@@ -190,6 +191,7 @@ public class Executor {
         for(int i = 0; i < array1.length; i++)
         {
             array1[i] = (int)(Math.random() * 10);
+
             System.out.print(array1[i] + " ");
 
             if((array1[i] % 2) == 0)

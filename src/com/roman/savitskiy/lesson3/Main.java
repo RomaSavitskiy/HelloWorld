@@ -1,4 +1,4 @@
-package lesson3;
+package com.roman.savitskiy.lesson3;
 
 import java.util.Scanner;
 
@@ -25,10 +25,10 @@ public class Main {
       System.out.println("13. Расчёт вклада с 7% ставкой за N количество месяцев");
       System.out.println("14. Вывод таблицы умножения");
 
-      int numberOperarion = scanner.nextInt();
+      int numberOperation = scanner.nextInt();
       Execution execution = new Execution();
 
-      switch (numberOperarion) {
+      switch (numberOperation) {
         case 1:
           execution.FindMonthViaSwitch();
           break;
@@ -69,6 +69,8 @@ public class Main {
           execution.findSumInBank();
           break;
         case 14:
+          execution.multiplicationTable();
+        case 15:
           execution.multiplicationTable();
       }
 

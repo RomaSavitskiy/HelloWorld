@@ -1,4 +1,4 @@
-package lesson5;
+package com.roman.savitskiy.lesson5;
 
 import java.util.Arrays;
 

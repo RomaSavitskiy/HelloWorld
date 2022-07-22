@@ -1,4 +1,4 @@
-package lesson4;
+package com.roman.savitskiy.lesson4;
 
 import java.util.Scanner;
 
