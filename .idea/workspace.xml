@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="Test gitignore">
-      <change afterPath="$PROJECT_DIR$/src/com/roman/savitskiy/Training/Training.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/HelloWorldClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/roman/savitskiy/HelloWorldClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/Execution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/roman/savitskiy/lesson3/Execution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/roman/savitskiy/lesson3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Executor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/roman/savitskiy/lesson4/Executor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/roman/savitskiy/lesson4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson5/Executor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/roman/savitskiy/lesson5/Executor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson5/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/roman/savitskiy/lesson5/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variables/VariablesClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/roman/savitskiy/variables/VariablesClass.java" afterDir="false" />
+    <list default="true" id="63ceb766-79e0-4811-b801-b1328bdbd574" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lesson5/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson5/Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,26 +52,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.roman.savitskiy.lesson3.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.roman.savitskiy.lesson4.Main" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.roman.savitskiy.lesson4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.company.HelloWorldClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.com.roman.savitskiy.lesson5.Start">
+    <configuration name="HelloWorldClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.HelloWorldClass" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.roman.savitskiy.variables.*" />
+          <option name="PATTERN" value="variables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.roman.savitskiy.Training.Training" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.roman.savitskiy.Training.Training" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.Main" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.roman.savitskiy.Training.*" />
+          <option name="PATTERN" value="lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.roman.savitskiy.lesson3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.roman.savitskiy.lesson3.Main" />
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.Start" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.roman.savitskiy.lesson3.*" />
+          <option name="PATTERN" value="lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.Main" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.roman.savitskiy.lesson3.Main" />
-        <item itemvalue="Application.com.roman.savitskiy.Training.Training" />
         <item itemvalue="Application.com.roman.savitskiy.lesson5.Start" />
-        <item itemvalue="Application.com.company.HelloWorldClass" />
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lesson4.Main" />
+        <item itemvalue="Application.HelloWorldClass" />
       </list>
     </recent_temporary>
   </component>
@@ -163,8 +156,7 @@
       <workItem from="1657999271313" duration="431000" />
       <workItem from="1658000542035" duration="1176000" />
       <workItem from="1658004518503" duration="4070000" />
-      <workItem from="1658034225292" duration="5387000" />
-      <workItem from="1658400075672" duration="9565000" />
+      <workItem from="1658034225292" duration="5704000" />
     </task>
     <task id="LOCAL-00001" summary="Added hello message">
       <created>1656842874880</created>
@@ -306,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657999334239</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Start do homework">
+      <created>1658052851870</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658052851870</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,6 +344,7 @@
     <MESSAGE value="Preparation for homework" />
     <MESSAGE value="Added lesson 4 homework" />
     <MESSAGE value="Test gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test gitignore" />
+    <MESSAGE value="Start do homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start do homework" />
   </component>
 </project>
