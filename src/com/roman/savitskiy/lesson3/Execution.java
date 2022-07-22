@@ -1,4 +1,4 @@
-package lesson3;
+package com.roman.savitskiy.lesson3;
 
 import java.util.Scanner;
 
@@ -239,6 +239,11 @@ public class Execution
           System.out.print((i*j) + "   ");
         }
       }
+    }
 
+    public int testMethod()
+    {
+         System.out.println("Hello");
+         return  10;
     }
 }
